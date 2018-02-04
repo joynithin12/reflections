@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Answer - when there is collaborative work, when there are multiple developers then it makes sense to regularly push the work to a remote repository
