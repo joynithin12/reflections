@@ -1,2 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Answer - when there is collaborative work, when there are multiple developers then it makes sense to regularly push the work to a remote repository
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It may require many commits to have a feature , hence it makes sense to manually push the repository to make it public
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is used for copying a repository already on the GIT server into another repository on GIT server
+Clone is used for copying repository on the GIT server on the local machine
+branches is an offshoot of an existing line of code for developing something new
