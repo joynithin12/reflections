@@ -16,3 +16,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 We would collaborate using emails. It would be easier when teams are co located and small. It would be harder if the team size is huge
 Working on branches and automatic merging and review would be hard
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If we work on a separate branch , it helps us to be in control of the code before release and it can be routed throug pull requeests for approval.
+Pull requests merge could be cumbersome but it safe approach.
+Directly working on master may be better if there is only few developers
