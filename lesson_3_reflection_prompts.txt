@@ -11,3 +11,8 @@ branches is an offshoot of an existing line of code for developing something new
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Helps us to work offline, when we are done we can find the dif between sever and local and push the difference. Helps in merging etc
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We would collaborate using emails. It would be easier when teams are co located and small. It would be harder if the team size is huge
+Working on branches and automatic merging and review would be hard
